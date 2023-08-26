@@ -1,0 +1,38 @@
+
+.card{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border-style: solid;
+    border-color: black;
+}
+
+.electric {
+    background-color: yellow;
+}
+
+.fire {
+    background-color: orangered;
+}
+
+.ghost {
+    background-color: purple;
+}
+
+.dragon {
+    background-color: crimson;
+}
+
+.psychic {
+    background-color: blue;
+}
+
+
+.field {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

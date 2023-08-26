@@ -1,0 +1,16 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+#box{
+    width: 32%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+}
+  
+  
